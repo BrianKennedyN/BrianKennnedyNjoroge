@@ -35,9 +35,22 @@ position: static;
     height: 16px;
     width: 14px;
     /* display: inline;
-    position: static; */
-    
+    position: static; */  
 }
+
+
+.logoname{
+    margin-left: 1rem; 
+    color: white;
+    font-style: Zapf-Chancery, italic;
+}
+
+.brand-logo{
+    display: flex;
+}
+
+
+
 
 
 
