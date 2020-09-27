@@ -35,9 +35,9 @@ position: static;
     height: 16px;
     width: 14px;
     /* display: inline;
-    position: static; */  
+    position: static; */
+    
 }
-
 
 .logoname{
     margin-left: 1rem; 
@@ -47,9 +47,6 @@ position: static;
 
 .brand-logo{
     display: flex;
-}
-
-
 }
 
 
@@ -93,8 +90,15 @@ position: static;
     position: static; 
 }
 
+/* .container1 {
+    position: relative;
+    text-align: center;
+    color: white;
+  } */
 
-.container1, .name, .name1, .work{
+
+
+  .container1, .name, .name1, .work{
     color: white;
     padding-left: 10px;
     border-right: 10px;
@@ -107,6 +111,12 @@ position: static;
     border-bottom: 10px;
 }
 
+/* .name, .name1, .work{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 5px%;
+    padding-bottom: 20%; */
+}
 
 
 .name{
@@ -118,6 +128,7 @@ position: static;
     height: 10vh;
   }
 
+  
 
   .name{
     position: absolute;
@@ -125,6 +136,15 @@ position: static;
     left: 50%;
     transform: translate(-50%, -50%);
   }
+
+  /* .work, .name{
+      position: absolute;
+      /* right: 8px; */
+      /* bottom: 250px;
+      left: 600px;
+      text-align: center; */
+    
+  /* } */ */
 
 
 
