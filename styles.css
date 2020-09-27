@@ -50,5 +50,49 @@ position: static;
 }
 
 
+}
+
+
+@import url('https://fonts.googleapis.com/css? family=Poppins:400,500,700');
+
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+
+
+.bottombar{
+    background-color:#680021;;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: justify;
+    position: static;
+    width: 100%;
+}
+
+.bottombar, footer ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: static;
+
+
+}
+
+.bottombar, footer ul li {
+    display: inline;
+    position: static;
+    
+}
+
+.bottombar, footer ul li a {
+    color: white;
+    text-decoration:none;
+    float: right;
+    padding: 14px 16px;   
+    position: static; 
+}
+
+
 
 
