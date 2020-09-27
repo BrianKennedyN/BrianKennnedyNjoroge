@@ -16,7 +16,28 @@ padding: 0;
 position: static;
 }
 
+.topbar header ul li {
+    display: inline;
+    position: static;
+    
+}
 
+.topbar header ul li a {
+    color: white;
+    text-decoration:none;
+    float: right;
+    padding: 14px 16px;   
+    position: static; 
+}
+
+
+.logo{
+    height: 16px;
+    width: 14px;
+    /* display: inline;
+    position: static; */
+    
+}
 
 
 
