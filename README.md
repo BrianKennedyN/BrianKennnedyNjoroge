@@ -2,10 +2,10 @@
  By Brian Kennedy Njoroge.
 
  ## Live Link
- https://briankennedyn.github.io/BrianKennnedyNjoroge/
+ - https://briankennedyn.github.io/BrianKennnedyNjoroge/
 
 ## Description
-This is my portfolio.
+This is my website portfolio.
 
 ## Techologies used
 This web application was developed by incorporating the use of:
