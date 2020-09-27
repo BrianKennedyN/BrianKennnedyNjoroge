@@ -1,0 +1,115 @@
+header{
+    background-color:#680021;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: justify;
+    position: static;
+    padding: 14px 16px;   
+}
+
+.topbar header ul{
+
+list-style-type: none;
+margin: 0;
+padding: 0;
+position: static;
+}
+
+.topbar header ul li {
+    display: inline;
+    position: static;
+    
+}
+
+.topbar header ul li a {
+    color: white;
+    text-decoration:none;
+    float: right;
+    padding: 14px 16px;   
+    position: static; 
+}
+
+
+.logo{
+    height: 16px;
+    width: 14px;
+    /* display: inline;
+    position: static; */
+}
+
+.logoname{
+    margin-left: 1rem; 
+    color: white;
+    font-style: Zapf-Chancery, italic;
+}
+
+.brand-logo{
+    display: flex;
+    h
+}
+
+
+@import url('https://fonts.googleapis.com/css? family=Poppins:400,500,700');
+
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+
+
+.bottombar{
+    background-color:#680021;;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: justify;
+    position: static;
+    width: 100%;
+}
+
+.bottombar, footer ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: static;
+}
+
+.bottombar, footer ul li {
+    display: inline;
+    position: static;
+    
+}
+
+.bottombar, footer ul li a {
+    color: white;
+    text-decoration:none;
+    float: right;
+    padding: 14px 16px;   
+    position: static; 
+}
+
+
+
+
+.name{
+    position: absolute;
+    top: 80px;
+    left: 50%;
+    /* right: 50%; */
+    background-color: brown;
+    /* width: 421px;
+    height: 321.44px; */
+    font-style: normal;        
+    /* font-weight: sm; */
+    padding-top: -10%;
+    font-size: 36px;
+    /* line-height: 54px; */
+    /* align-items: center;
+    text-align: center; */
+    /* display: flex; */
+    color: white;
+    /* padding-top: 10px; */
+    margin-top: 19px;
+    margin-right: 10px;
+ 
+}
